@@ -7,7 +7,7 @@ public class Str1 {
      int a=10;
      int b=5;
      System.out.print(a+b);
-
+int c=100；
     }
 
 }
